@@ -1,3 +1,5 @@
-lxml==4.9.2
-PyStemmer==2.2.0.1
-requests==2.28.2
+redis
+tqdm
+pandas
+openpyxl
+PyStemmer
