@@ -18,7 +18,7 @@ Run the setup.py script to install the required Python packages and Redis:
 bash
 Copy code
 python setup.py install
-#### Note: If you're using an operating system other than Linux or macOS, please manually install Redis on your system.
+  ### Note: If you're using an operating system other than Linux or macOS, please manually install Redis on your system.
 
 ### Usage
 After installing the required packages and Redis, you can use the document search engine by running the following command in the terminal:
